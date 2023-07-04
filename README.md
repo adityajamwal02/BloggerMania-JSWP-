@@ -1,4 +1,4 @@
-# BloggerMania
+# JSWP (BloggerMania)
 
 ## Introduction
 
