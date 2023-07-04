@@ -2,12 +2,12 @@
 
 ## Introduction
 
-Code Repository deals with a blog web-application where people can connect and share their different perspectives of life.
+Code Repository deals with a article based web-application where people can connect and share their placement stories, hardships, teachings, questions, resources and a lot more!
 
 ## Overview 
 
-CRUD (CREATE, READ, UPDATE, DELETE) based application with pagination, comments, authentication, search (by name/ by tags), editing and maintaining blogs.
-Responsive design, loaders, servers, clusters (database) etc...
+CRUD (CREATE, READ, UPDATE, DELETE) application with pagination, comments, authentication, search (by name/ by tags), editing and maintaining blogs.
+Responsive design, loaders, servers and clusters (database).
 
 ## Tech Stack 
 
